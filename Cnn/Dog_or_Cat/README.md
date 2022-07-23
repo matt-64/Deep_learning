@@ -1,0 +1,1 @@
+This is simply exercice to recognize with two classes (dog or cat) from the image with CNN
